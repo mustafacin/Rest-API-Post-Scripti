@@ -120,7 +120,14 @@ api.add_resource(Bolme, "/bolme")
 
 @app.route('/')
 def hello_world():
-    return "Hello world"
+    cikti = """4 islem uygulamasina hosgeldiniz.
+              Toplama yapmak icin /topla  
+                 Cikarma icin /cikar     
+                 Carpma icin /carp   
+                 Bolme icin /bolme   
+                 Dizinine gidip POST isteginde x ve y degerlerini gondermelisiniz.Istekte bulunmak icin Postman kullanabilirsiniz."""
+    
+    return cikti
 
 
 if __name__ == "__main__":
