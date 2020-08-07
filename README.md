@@ -1,4 +1,4 @@
-# Rest-API-Temel-Post-Scripti
+# Rest-API-Post-Scripti
 Python Flask ve flask_restful ile geliştirilen 4 işlem yapan API uygulaması
 #Kullanımı
 
