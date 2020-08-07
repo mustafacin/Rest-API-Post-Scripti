@@ -8,3 +8,14 @@ Uygulamayı kullanmak için Postman gerekiyor.Postman ile POST isteğini JSON fo
 Programı çalıştırmak için:<br><br>
 import FLASK_APP=app.py<br><br>
 flask run
+
+<br>
+#Dizinler<br>
+
+/topla<br> 
+/bolme<br>
+/carp <br>
+/cikar </br>
+
+<h3>Argumanlar</h3><br>
+x ve y isteğinde bulunmalısınız.
